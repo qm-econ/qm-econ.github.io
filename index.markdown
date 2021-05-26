@@ -6,8 +6,8 @@ layout: home
 title: Home
 ---
 
-# Schedule
+# Talks
 
-| Date                               | Talk                                                                                                                                  | Presenter  |
+| Date                               | Theme                                                                                                                                  | Presenter  |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------|
-| April and first half of May - 2021 | Intro to Dynamic Programming <br/>-[Slides](/static/Dynamic-Programming-Slides.pdf), -[Example using Julia](/static/muffins_teste.jl) | João Costa |
+| April and first half of May - 2021 | Intro to Dynamic Programming <br/>-[Slides](/static/Dynamic-Programming-Slides.pdf), -[Example using Julia (by Anderson Borba)](/static/muffins_teste.jl) | João Costa |
